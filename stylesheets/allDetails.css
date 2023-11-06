@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins, 'sanserif';
+}
+table{
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+}
+table tr th{
+    border-bottom: 2px solid #3254a8;
+    padding: 20px;
+    color: #000;
+}
